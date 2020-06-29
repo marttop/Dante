@@ -35,3 +35,7 @@ The requirements are the same as for perfect mazes.
 The generation method is up to you, but it must work in an acceptable amount of time.
 Input: maze size
 Output: a maze with the required size on the standard output.
+
+## Examples
+
+![ScreenShot](https://raw.github.com/marttop/Dante/master/examples/example.png)
